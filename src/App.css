@@ -1,0 +1,12 @@
+/** Style for App Component */
+
+/* set background to black */
+.App {
+  background: black; 
+}
+
+/* set h1 and h3 to white */
+h1, h3{
+  color: white;
+}
+

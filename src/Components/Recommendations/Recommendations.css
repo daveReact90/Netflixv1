@@ -1,0 +1,18 @@
+/** Style for Recommendations Component */
+
+/* display in a row */
+.card-style {
+    display:inline-block;
+    margin: 5px 5px;
+}
+
+/* make button not visible */
+.add-button {
+    opacity: 0;
+    transition: opacity .35s ease;
+}
+
+/* make button visible on hover */
+.card-style:hover .add-button {
+    opacity: 1;
+}
