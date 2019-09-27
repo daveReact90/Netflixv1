@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import './BottomList.css';
 
 /**
- * The BottomList component is a stateless component. It will display a list of movies from the myList array.
+ * The BottomList component is a stateless component. It will display a list of titles from the myList array.
  */
 
 const BottomList = ({myList}) => {
